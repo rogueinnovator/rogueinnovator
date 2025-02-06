@@ -56,7 +56,8 @@
 ![rogueinnovator's Stats](https://github-readme-stats.vercel.app/api?username=rogueinnovator&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <br><br>
-![rogueinnovator's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogueinnovator&theme=dark&hide_border=true) <br/>
+<img src="https://d3frb2mbny706b.cloudfront.net/rogueinnovator" width="500">
+<br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <br><br>
 ![rogueinnovator's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rogueinnovator&theme=dark&show_icons=true&hide_border=true&layout=compact)
@@ -68,6 +69,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rogueinnovator&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <h1 align="left">Leet code :( </h1>
 
 ![rogueinnovator's leet code](https://leetcard.jacoblin.cool/kBIi22mqCX?theme=dark&font=Fascinate%20Inline)
