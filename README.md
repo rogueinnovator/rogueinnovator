@@ -23,6 +23,7 @@
 <a href="https://www.linkedin.com/in/muhammad-huzaifa-ali-49aa94259/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="huzaifa" height="40" width="40" /></a>
 <a href="https://instagram.com/rogueinnovator" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="rogueinnovator" height="40" width="40" /></a>
 <a href="rogueinnovator" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="rogueinnovator" height="40" width="40" /></a>
+ <a href="rogueinnovator" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/28117148/file/original-c0db2041822a946b9529b5ae1fdf08e8.gif" alt="rogueinnovator" height="40" width="40" /></a>
 </p>
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
