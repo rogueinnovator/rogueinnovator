@@ -37,7 +37,7 @@
 </p>
        
 </div>
-</details>`
+</details>
 <details open>
 <summary align="center"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px"> Tools and frameworks </h2></summary>
 <p align="center">
