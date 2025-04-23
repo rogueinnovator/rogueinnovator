@@ -6,7 +6,7 @@
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
     <p align="center"> I am Muhammad Huzaifa  <img src="./Image/cat-coder.gif" width="30px">.</p>
-    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
+    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width=20% height=45%/>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
         <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a passionate full stack developer.</a></li><br>
@@ -59,10 +59,11 @@
   <div align="center">
     <img height="192px" alt="rogueinnovator's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogueinnovator&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=rogueinnovator&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
-      <img src="https://wakatime.com/share/@rogueinnovator/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/>
+      <img height="192px" src="https://github-contributor-stats.vercel.app/api?username=rogueinnovator&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+      <!-- <img src="https://wakatime.com/share/@rogueinnovator/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rogueinnovator&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+      <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rogueinnovator&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000"> -->
   <a href="https://github.com/rogueinnovator/rogueinnovator"><img alt="rogueinnovator's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rogueinnovator&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
  <p align="center">
 
